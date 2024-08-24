@@ -1,0 +1,18 @@
+{
+  "name": "binary-search-util",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "binary search",
+    "search",
+    "algorithm",
+    "util",
+    "sorted array"
+  ],
+  "author": "Rishav Yadav",
+  "license": "ISC",
+  "description": "A simple and efficient utility for performing binary search on sorted arrays in Node.js applications."
+}
