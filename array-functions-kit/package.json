@@ -1,0 +1,17 @@
+{
+  "name": "array-functions-kit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "array",
+    "utils",
+    "higher-order functions",
+    "array methods"
+  ],
+  "author": "Rishaav Yadav",
+  "license": "ISC",
+  "description": "A collection of higher-order functions for arrays, including sum, remove duplicates, and more."
+}
